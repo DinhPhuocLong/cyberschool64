@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "precise-antenna-348515",
+  "private_key_id": "e646642f916ef4fab9a481c010be97c02e697fe5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiipmJ9LNcITzg\nLb50OhenOu0WYA1EY0ksS2HBneE0Rtb1Esd8DIea3/EH2gOm6ZhyGtZfbytlPagc\n8FdarAuupnVfknsrLjjmzH3NnoIFOi+U47SbREnqcwtHaD9KHD5trm4VgTZmSGGC\nEr8e6K2Wp3nYg/9UmaQGAgBu+sLhNqoW61MSJwm+kjeQDNJ7k/WYHQ42sp47Ws/S\nW/pm9e2agXAIkDDO00iRIb04aEGCQkcHRxlvSI9IIYWfuajye2zUDUBengX1XDnu\nIh234yPJTWFxD74V3d8MYcsGGe3O6rCenUjg5MWKOvCVKCxviUdyZlJ+AmH2vzR4\nrTt65BNJAgMBAAECggEAPN53kiyjkHBYCkHHLWJl4jfUeokc3svppp9SK/4yTG/s\n5tkSAFf23l5Xto+Dx5l5/90iA5ovn5m/35p3tBpyw4RNty01V93W7EOPJxXhbhC0\nqea+B1lC7vwHMMYO0XOTQ2LLkd0SIKqhbWMU1H/hJeZw4E7KKwXgYWmVfPoGSe0k\naJrVvK9wNqdxvMIs4ltZcPxK4J4GduRAwVpHmORtQ3Qqjb+UsWj5Lpkgwl6O+EYJ\n+OfV7xod2m1baGOh+cIAVakfam/lYGEYNk0at2LE7lrEjcqeeyVtGNaT26S4veZ+\nKHWkaoWN9y7TIuWEwrZjMT4aazhjD04KZhdQJesaOwKBgQDOvcTnkeLJBbT4SZuW\n+X3/mE47u+0v94bXw+ski4TLwUTcn2E2ugJ9h4LFm/eX6RdWrSL0DOeaQZeB5Y3A\nrt+oNnHFbVUmrEn1aBIUqpgffz7htyLmB8OdeMeWkcNdtdWzr+47d9aGn+EE3FFL\nO9hjv5MtX0KdRjPJj+DQsLOUYwKBgQDJRNlaXOYcI9opJ4QBrdHuzGbtQbBwDgHx\nCmCoWG9aJTNFejc6c01SP0eIJYz+lJqoA7Z/jKzqUVo6KIJNcIos5ZC0T8+xfwaB\ngknf2vF8M5IfPBh5OE06tyt79gjxUVlUoBQnsHSSqEYWneJkzP9TUsOAkHaibBNB\nxMHxKcvbYwKBgBEapiW6bhbPgA9il5q//WqeASrz+0WSpvdG4Ddfy5bH4JiYHwTW\nEsqr4WfT5YIN6L5lCJVEVAzxDEXU5gtg7GQQTQ1WZEsUyfGhsI1BJ+DDOEKYUizR\ny59FlM2iNZWVK574GS+WVItCwu0SBS/CPb7S5KxGS06TtkkgvCrH07OdAoGAF50N\nRy3JDZojOVragPvsunCezs07LxplnesSxg2CGvhsWIVrP19RvgmQkeed8CxtLLMq\n0TInA2LCDDq+dulyPKw+WvlWK8P0dnNbyXi9hk3ioemCEY7KeM4Ouv91syJRMb2K\nP9HTC3XUq0igzCTE+/ik2UuZr5qwc7Hq8yltMnMCgYBOcG0frjDBa9E/0sqNRaz+\nl3UbTJg0k1hdsWJJ/Fbmv1fgVORKbxJ01MFsBihrOjXz5DrbfvAwBKzbmlq1tzCl\n50wH6oilxELCgCiXh1e9n+pQ4lzgQ8lIc6/aMQW0SD6z8pjPlfbxS5/tho2tcjJ/\n/2j+rAZLx8G4uHkt+716hg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-srni-b2k3muib8h8z3olls6lyl@precise-antenna-348515.iam.gserviceaccount.com",
+  "client_id": "107252329273522942578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-srni-b2k3muib8h8z3olls6lyl%40precise-antenna-348515.iam.gserviceaccount.com"
+}
